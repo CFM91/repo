@@ -2,27 +2,12 @@ Package: org.thebigboss.protube2
 Version: 1.1.3
 Section: Tweaks
 Maintainer: TheBigBoss
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (<7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/org.thebigboss.protube2_1.1.3_iphoneos-arm.deb
 Size: 276372
 MD5sum: 373bb4549d813f148dc64f8527685565
-Description: This is a sample new package. Firmware should be greater than 7.0
+Description: ProTube is cool
 Name: ProTube
 Author: TheBigBoss
 Depiction: https://cfm91.github.io/repo/depictions/?p=org.thebigboss.protube2
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
