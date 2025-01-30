@@ -1,4 +1,1 @@
-Welcome to My Cydia Repo :3
-
-https://fileditchfiles.me/file.php?f=/s21/GMByumzfDJqNrwpqaDQb.dmg
-https://fileditchfiles.me/file.php?f=/s21/IndbeSykAWSUnOZRYdBF.chunklist
+https://indigo-magnetic-gull-716.mypinata.cloud/ipfs/QmYKv8PzwFUzLkMACbNj1PsPmCoVFb1q1odTrHaKk6w39T
